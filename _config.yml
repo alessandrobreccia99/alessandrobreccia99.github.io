@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Alessandro Breccia / Site Title"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Alessandro Breccia"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://alessandrobreccia99.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Alessandro Breccia"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : "Ducunt volentem fata, nolentem trahunt "
   location         : "Senigallia, Italy"
   employer         : ""
   uri              : # URL
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
