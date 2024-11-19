@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_img.jpg"
+  avatar           : "profile_img.jpeg"
   name             : "Alessandro Breccia"
   pronouns         : # example: "she/her"  
   bio              : "Ducunt volentem fata, nolentem trahunt "
