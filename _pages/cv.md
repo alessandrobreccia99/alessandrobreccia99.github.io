@@ -23,7 +23,7 @@ Experiences
   * Hopfield-network based model in human recalling process 
 
 * Erasmus+ for Studies Exchange Student @ KU Leuven (Sept. 2023 - Feb. 2024)
-  * 2 places, first rankend
+  * 2 places, first ranked
   
 IT Skills
 ======
