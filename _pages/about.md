@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-About me
+A curious child exploring the laws of nature 
 ======
