@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "At the Edge of Laziness: Scaling Limits of Catastrophic Forgetting"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Despite recent efforts, neural networks still struggle to learn in non-stationary environments, and our understanding of catastrophic forgetting is far from complete. In this work, we perform a systematic study on the impact of model scale and the degree of feature learning in continual learning. We reconcile existing contradictory observations on scale in the literature, by differentiating between lazy and rich training regimes through a variable parametrization of the architecture. We show that increasing model width is only beneficial when it reduces the amount of feature learning, yielding more laziness. Using the framework of dynamical mean field theory, we then study the infinite width dynamics of the model in the feature learning regime and characterize catastrophic forgetting, extending prior theoretical results limited to the lazy regime. We study the intricate relationship between feature learning, task non-stationarity, and forgetting, finding that high feature learning is only beneficial with highly similar tasks. Furthermore, we identify a transition - modulated by task similarity - where the model exits an effectively lazy regime with low forgetting to enter a rich regime with significant forgetting. We term this transition region Edge of Laziness. Finally, our findings reveal that neural networks achieve optimal performance at a critical level of feature learning, which depends on task non-stationarity and transfers across model scales. This work provides a unified perspective on the role of scale and feature learning in continual learning.'
+date: 2025-01-31
+venue: 'Pre-print ICML 2025'
+paperurl: 'https://openreview.net/forum?id=edhBkkYS8R'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
