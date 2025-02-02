@@ -1,7 +1,7 @@
 ---
 title: "At the Edge of Laziness: Scaling Limits of Catastrophic Forgetting"
 collection: publications
-category: manuscripts
+category: conferences
 excerpt: 'Continual Learning, Neural Tangent Kernel, DMFT, Infinitely Wide NNs, lazy/rich regimes'
 date: 2025-01-31
 venue: 'Pre-print ICML 2025'
