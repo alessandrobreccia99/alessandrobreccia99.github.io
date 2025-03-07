@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 3"
+title: "Towards an Automatic Recognition of Artifacts and Features in Plethysmographic Traces"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: ' Plethysmograph; JVP; Neural Network; Artificial Intelligence.'
+date: 2025-02-01
+venue: 'Pre-print MDPI Applied Sciences'
+paperurl: ''
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+A plethysmograph is a device that quantitatively assesses volumetric variations in an organ or the entire body, typically resulting from fluctuations in blood flow. In this study, a strain-gauge sensor that measures the change of volume of the neck is used to detect the time variation of the cerebral venous outflow in the internal jugular veins. The resulting electronic signal is susceptible to several external factors, complicating the identification of relevant features. A reliable analysis of the waveform, without the need of a manual intervention to analyze the data, is of paramount importance to provide a real-time analysis of the vital parameters of the patient. In this work, we demonstrate that specifically designed neural networks can detect artifacts in the plethysmographic traces, and identify the most important features in the signal with a reasonable accuracy, eliminating the need to perform these tasks manually for each patient.
